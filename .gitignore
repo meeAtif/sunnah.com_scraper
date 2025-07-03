@@ -1,0 +1,6 @@
+scraped/
+*.py[cod]
+*.log
+env/
+venv/
+.vscode/
