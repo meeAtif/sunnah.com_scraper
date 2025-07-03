@@ -29,7 +29,7 @@ It scrapes **book titles, chapters, hadith, its english translation and the refe
     python scraper.py
     ```
 6. Follow the prompts.
-7. The JSON/CSV files will be saved in the `scraped/` folder.
+7. The JSON/CSV files will be saved in the `output_files/` folder.
 
 ---
 
@@ -37,8 +37,8 @@ It scrapes **book titles, chapters, hadith, its english translation and the refe
 
 Each run will generate:
 - `book_name.json`/ `book_name.csv` — list of books in the collection
-- Individual JSON / CSV files for each book (e.g., `Book_1.json`, `Book_1.csv`, etc.)
-- All files are saved under the `scraped/` directory
+- Individual JSON / CSV files for each book (e.g., `Sahih Muslim.json`, `Sahih Bukhari.csv`, etc.)
+- All files are saved under the `output_files/` directory
 
 ---
 
